@@ -13,7 +13,7 @@ $fecha_max="2021-08-31";
     <head>
         <meta charset="UTF-8">
         <title>Rango de fechas</title>
-        <center><h2>Fecha Limitada</h2></center>
+        <center><h2>Fecha Limitada  por rangos de fechas</h2></center>
     </head>
     <body>
         <center>
